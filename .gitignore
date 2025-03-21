@@ -1,4 +1,13 @@
 node_modules/
 package-lock.json
 
+API/node_modules/
+API/package-lock.json
+
+UI/node_modules/
+UI/package-lock.json
+
 .DS_Store
+
+
+.vscode/
